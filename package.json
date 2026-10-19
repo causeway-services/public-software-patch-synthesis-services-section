@@ -18,5 +18,9 @@
   },
   "scripts": {
     "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/causeway-services/software-patch-synthesis-service.git"
   }
 }
