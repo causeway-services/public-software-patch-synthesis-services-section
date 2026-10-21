@@ -1,1 +1,1 @@
-{"keys":[{"crv":"Ed25519","x":"FaAwgUztw9q1bYtgPz0dO3haqrDXm9zuecgrg5Qbpxo","kty":"OKP","kid":"software-patch-synthesis-service-2026-07-21","alg":"EdDSA","use":"sig"}]}
+{"keys":[{"crv":"Ed25519","x":"VcAxU06A_c5vr1B3FIlhmI3bFKfqIYV92eCJUdNAEWA","kty":"OKP","kid":"software-patch-synthesis-service-2026-10-21","alg":"EdDSA","use":"sig"}]}
