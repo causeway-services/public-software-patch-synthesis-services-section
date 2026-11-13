@@ -11,4 +11,4 @@ public-software-patch-synthesis-services-section is a services section of the 56
 
 ## Code custody
 
-This repository holds section data only. The executable code that reads this data lives in [red-cup-engineering/software-patch-synthesis-service](https://github.com/red-cup-engineering/software-patch-synthesis-service) (private). Point that engine at a checkout of this repository with `SECTION_DATA_ROOT` (default: the current directory).
+This repository holds section data only. The executable code that reads this data lives in [red-cup-engineering/public-software-patch-synthesis-services-section](https://github.com/red-cup-engineering/public-software-patch-synthesis-services-section) (private). Point that engine at a checkout of this repository with `SECTION_DATA_ROOT` (default: the current directory).
